@@ -58,13 +58,12 @@ I'm currently about to enroll in grad school in Seoul, South Korea to study and 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
 
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=plastic&logo=samsung&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)
-
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 
 <!--- <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=henrifola&show_icons=true&hide_border=true&theme=synthwave" />
