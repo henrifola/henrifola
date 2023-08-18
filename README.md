@@ -3,7 +3,7 @@
 </div>
 <br/>
 
-## 🫧 Hi there! Henriette here 🫧
+## 🪐 Hi there! Henriette here 🪐
 
 <a href="https://visitorbadge.io/status?path=henrifola"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=henrifola&countColor=%23d9e3f0&style=plastic" /></a>
 
@@ -31,7 +31,7 @@ I'm currently about to enroll in grad school in Seoul, South Korea to study and 
 <img align="right" src="https://media.giphy.com/media/DrYaN3b6awrmw/giphy.gif"/>
 
 
-#### - 🪐 Some things I enjoy 🪐
+#### - 🪐 Some things I enjoy 🪐 
 <p>
  
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
