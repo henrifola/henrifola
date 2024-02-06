@@ -16,17 +16,14 @@
 
 #### ✨ Welcome to my Github! ✨
 I'm Henriette, a 25 y/o software engineer. I graduated with a degree in engineering in 2021, and I've been working in the industry for 2 years doing mainly Java/Kotlin & React development. 
-About to become a full time student again⭐️!
+I'm about to enroll in grad school in Seoul, South Korea to study and research more about AI, but first doing a one year intensive course in Korean until september🌷
+
 <br/>
-<!--
-I'm currently about to enroll in grad school in Seoul, South Korea to study and research more about AI🌷
--->
 
 #### - 💫 I’m currently studying 💫
 - Korean
 - TOPIK
 - Express.js
-- Preparing for grad school classes
 
 <img align="right" src="https://media.giphy.com/media/DrYaN3b6awrmw/giphy.gif"/>
 
