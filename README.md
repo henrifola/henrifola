@@ -22,10 +22,13 @@ Now doing grad school in Seoul, South Korea to study and research more about AI.
 
 
 #### - 💫 I’m currently studying 💫
-
+##### Classes: 
+- 컴퓨터비전 및 패턴인식
+- 컴퓨터보안
+- 인공지능 수학 기초 
 
 #### - 💫 Certifications 💫
-- Topik Lvl 4
+- Topik Lvl 4 (April 2024)
 
 <img align="right" src="https://media.giphy.com/media/DrYaN3b6awrmw/giphy.gif"/>
 
