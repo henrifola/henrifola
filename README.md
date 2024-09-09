@@ -23,9 +23,12 @@ Now doing grad school in Seoul, South Korea to study and research more about AI.
 
 #### - 💫 I’m currently studying 💫
 ##### Classes: 
-- 컴퓨터비전 및 패턴인식
-- 컴퓨터보안
-- 인공지능 수학 기초 
+- Computer Vision and Pattern recognition
+- AI Programning
+- Advanced statistical modelling
+
+- OpenCV Bootcamp
+- Stanford CS231n Deep Learning for Computer Vsion
 
 #### - 💫 Certifications 💫
 - Topik Lvl 4 (April 2024)
