@@ -23,10 +23,10 @@ Now doing grad school in Seoul, South Korea to study and research more about AI.
 
 #### - 💫 I’m currently studying 💫
 ##### Classes: 
-- Computer Vision and Pattern recognition
-- AI Programning
-- Advanced statistical modelling
-
+- Computer Vision and Pattern recognition - Master class
+- AI Programning - Master class
+- Advanced statistical modelling - Master class
+<br/>
 - OpenCV Bootcamp
 - Stanford CS231n Deep Learning for Computer Vsion
 
