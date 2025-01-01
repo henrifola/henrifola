@@ -15,19 +15,14 @@
 
 
 #### ✨ Welcome to my Github! ✨
-I'm Henriette, a 25 y/o software engineer. I graduated with a degree in engineering in 2021, and I've been working in the industry for 2 years doing mainly Java/Kotlin & React development. 
-Now doing grad school in Seoul, South Korea to study and research more about AI.
+I'm Henriette, a 26 y/o software engineer. I graduated with a degree in engineering in 2021, and worked in the industry as a software consultant for 2 years doing mainly Java/Kotlin & React development. 
+Currently doing my masters in AI in Seoul, South Korea after completing a one year language course.
 
 <br/>
 
 
 #### - 💫 I’m currently studying 💫
 ##### Classes: 
-- Computer Vision and Pattern recognition - Master class
-- AI Programning - Master class
-- Advanced statistical modelling - Master class
--    
-- OpenCV Bootcamp
 - Stanford CS231n Deep Learning for Computer Vsion
 
 #### - 💫 Certifications 💫
@@ -35,6 +30,12 @@ Now doing grad school in Seoul, South Korea to study and research more about AI.
 
 <img align="right" src="https://media.giphy.com/media/DrYaN3b6awrmw/giphy.gif"/>
 
+#### - 💫 Some classes or courses i have followed 💫
+- Computer Vision and Pattern recognition - Master class
+- AI Programning - Master class
+- Advanced statistical modelling - Master class
+-    
+- OpenCV Bootcamp
 
 #### - 🪐 Some things I enjoy 🪐 
 <p>
