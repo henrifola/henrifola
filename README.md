@@ -21,7 +21,7 @@ Currently doing my masters in AI in Seoul, South Korea.
 #### - 💫 I’m currently studying 💫
 ##### Classes: 
 
-#### Research:
+##### Research:
 - Computer Vision
 - Deep Fake Detection
 
