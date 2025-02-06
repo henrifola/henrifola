@@ -16,14 +16,17 @@
 
 #### ✨ Welcome to my Github! ✨
 I'm Henriette, a 26 y/o software engineer. I graduated with a degree in engineering in 2021, and worked in the industry as a software consultant for 2 years doing mainly Java/Kotlin & React development. 
-Currently doing my masters in AI in Seoul, South Korea after completing a one year language course.
+Currently doing my masters in AI in Seoul, South Korea.
 
 <br/>
 
 
 #### - 💫 I’m currently studying 💫
 ##### Classes: 
-- Stanford CS231n Deep Learning for Computer Vsion
+
+#### Research:
+- Computer Vision
+- Deep Fake Detection
 
 #### - 💫 Certifications 💫
 - Topik Lvl 4 (April 2024)
@@ -31,6 +34,7 @@ Currently doing my masters in AI in Seoul, South Korea after completing a one ye
 <img align="right" src="https://media.giphy.com/media/DrYaN3b6awrmw/giphy.gif"/>
 
 #### - 💫 Some classes or courses i have followed 💫
+- Stanford CS231n Deep Learning for Computer Vision
 - Computer Vision and Pattern recognition - Master class
 - AI Programning - Master class
 - Advanced statistical modelling - Master class
