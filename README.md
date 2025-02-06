@@ -18,9 +18,6 @@
 I'm Henriette, a 26 y/o software engineer. I graduated with a degree in engineering in 2021, and worked in the industry as a software consultant for 2 years doing mainly Java/Kotlin & React development. 
 Currently doing my masters in AI in Seoul, South Korea.
 
-<br/>
-
-
 #### - 💫 I’m currently studying 💫
 ##### Classes: 
 
