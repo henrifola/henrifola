@@ -21,9 +21,10 @@ Currently doing my masters in AI in Seoul, South Korea.
 #### - 💫 I’m currently studying 💫
 ##### Classes: 
 
-##### Research:
-- Computer Vision
-- Deep Fake Detection
+##### Research and interests:
+- Deep Learning
+- Computer Vision & Image Processing
+- Deep Fake Detection & AI Forensics
 
 #### - 💫 Certifications 💫
 - Topik Lvl 4 (April 2024)
@@ -32,9 +33,10 @@ Currently doing my masters in AI in Seoul, South Korea.
 
 #### - 💫 Some classes or courses i have followed 💫
 - Stanford CS231n Deep Learning for Computer Vision
-- Computer Vision and Pattern recognition - Master class
-- AI Programning - Master class
-- Advanced statistical modelling - Master class
+- Computer Vision and Pattern recognition - Master course
+- Digital Image Processing - Master course
+- AI Programning - Master course
+- Advanced statistical modelling - Master course
 -    
 - OpenCV Bootcamp
 
