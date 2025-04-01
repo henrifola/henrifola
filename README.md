@@ -20,6 +20,7 @@ Currently doing my masters in AI in Seoul, South Korea.
 
 #### - 💫 I’m currently studying 💫
 ##### Classes: 
+- Digital Image Processing - Master course
 
 ##### Research and interests:
 - Deep Learning
@@ -34,7 +35,6 @@ Currently doing my masters in AI in Seoul, South Korea.
 #### - 💫 Some classes or courses i have followed 💫
 - Stanford CS231n Deep Learning for Computer Vision
 - Computer Vision and Pattern recognition - Master course
-- Digital Image Processing - Master course
 - AI Programning - Master course
 - Advanced statistical modelling - Master course
 -    
