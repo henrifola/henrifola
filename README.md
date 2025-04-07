@@ -9,8 +9,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henriette-folasen/)
 [![gmail](https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=Gmail&logoColor=white)](mailto:henrifola@gmail.com)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=plastic&logo=DevdotTo&logoColor=white)](https://dev.to/henrifola)
-[![github](https://img.shields.io/badge/GitHub-000000?style=plastic&logo=GitHub&logoColor=white)](https://github.com/henrifola)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@henrifola)
 
 
 
