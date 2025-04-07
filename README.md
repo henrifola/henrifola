@@ -7,8 +7,8 @@
 
 <a href="https://visitorbadge.io/status?path=henrifola"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=henrifola&countColor=%23d9e3f0&style=plastic" /></a>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henriette-folasen/)
-[![gmail](https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=Gmail&logoColor=white)](mailto:henrifola@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriette-folasen/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrifola@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@henrifola)
 
 
