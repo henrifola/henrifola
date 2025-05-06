@@ -15,7 +15,9 @@
 
 #### ✨ Welcome to my Github! ✨
 Hi, I’m Henriette — a 27-year-old software engineer from Norway. I earned my engineering degree in 2021 and spent two years in industry as a software consultant, working mainly with Java/Kotlin and React. I’m now pursuing a master’s in AI in Seoul, South Korea, where I focus on Computer Vision. 
-I'm passionate about building AI systems that protect and empower people — especially through **Deepfake Detection** and ethical, security-driven applications. I currently work at an R&D startup developing AI-powered cybersecurity tools.
+
+I'm passionate about building AI systems that protect and empower people — especially through **Deepfake Detection** and ethical, security-driven applications. 
+I currently work at an R&D startup developing AI-powered cybersecurity tools.
 
 #### - 💫 I’m currently studying 💫
 ##### Research and interests:
