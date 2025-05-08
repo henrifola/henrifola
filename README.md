@@ -26,23 +26,8 @@ I’m also currently an intern at a research-driven startup specializing in AI-p
 - Computer Vision & Image Processing
 - Deep Fake Detection & AI Forensics
 
-- Currently preparing my first paper on robust deepfake detection 
-
-##### Classes: 
-- Digital Image Processing - Master course
-
 #### - 💫 Certifications 💫
 - Topik Lvl 4 (April 2024)
-
-<img align="right" src="https://media.giphy.com/media/DrYaN3b6awrmw/giphy.gif"/>
-
-#### - 💫 Some classes or courses i have followed 💫
-- Stanford CS231n Deep Learning for Computer Vision
-- Computer Vision and Pattern recognition - Master course
-- AI Programning - Master course
-- Advanced statistical modelling - Master course
--    
-- OpenCV Bootcamp
 
 #### - 🪐 Some things I enjoy 🪐 
 <p>
